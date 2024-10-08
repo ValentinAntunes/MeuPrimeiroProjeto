@@ -1,0 +1,1 @@
+Este Projeto foi criado com objetivo de aprender sobre conhecimentos relacionados ao GitHub na prática.
